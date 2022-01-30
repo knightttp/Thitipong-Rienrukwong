@@ -1,7 +1,4 @@
-github:
-  is_project_page: false
-  
-## THITIPONG RIENRUKWONG
+ ### THITIPONG RIENRUKWONG
 
 You can use the [editor on GitHub](https://github.com/knightttp/home/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
