@@ -1,4 +1,3 @@
 ### Hi visitors
 
-The site now is under construction.
-please stay tune
+The site is now under construction, so please stay tuned.
